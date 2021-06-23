@@ -1,0 +1,45 @@
+body{
+ background-color: floralwhite;
+align-content: center;
+    align-items: center;
+
+}
+
+
+h1{
+    
+    text-align:center;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 10px;
+}
+
+section{
+    
+    text-align: center;
+}
+
+form{
+    
+    text-align: center;
+}
+
+h4{
+    
+    font-size: 30;
+}
+
+.rr{
+    
+  align-items: center;
+}
+
+script{
+    
+    text-align: center;
+    font-size: 30;
+}
